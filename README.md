@@ -5,21 +5,16 @@
 This project involves creating dashboards and data analysis solutions to monitor the weekly performance of branch activities in an insurance company. It provides insights into target achievements, customer opportunities, and operational efficiency, helping management make data-driven decisions.
 
 📂 Project Files
-📊 Insurance_Dashboard_Excel.xlsx: Interactive Excel dashboard summarizing key metrics.
-📈 Insurance_Dashboard_PowerBI.pbix: Power BI dashboard for real-time insights and analysis.
-📉 Insurance_Dashboard_Tableau.twbx: Tableau dashboard for data visualization.
-📦 Insurance_Dataset.zip: Raw datasets used for the project.
-🖥️ Insurance_Analysis_Presentation.pptx: Presentation with project details, methodology, and conclusions.
+📊 Interactive Excel dashboard summarizing key metrics.
+📈 Power BI dashboard for real-time insights and analysis.
+📉 Tableau dashboard for data visualization.
+
 
 📊 Key Insights
  Performance Metrics:
- 
-
-
-
-
-
-
+Year wise and Grade wise analysis for Bank Loan 
+Top 20 customers of bank 
+Year wise loan amount status is increased
 
 
 📊 Dashboard Previews
@@ -32,6 +27,25 @@ https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%2
  https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Power%20Bi%20Bank%20analytics%20Dashboard.png
 
  3.Tableau Dashboard
+
+ https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Tableau%20Bank%20Analytics%20Dashboard.png
+
+ ⚙️ Tools and Technologies
+Excel: Data cleaning and dashboard creation.
+MySQL: Database creation and data import.
+Power BI: Interactive dashboards for real-time insights.
+Tableau: Data visualization and reporting.
+
+🛠️ Challenges Faced
+Data cleaning and formatting inconsistencies.
+Standardizing data types across datasets.
+📌 Conclusion
+The dashboards provide a comprehensive overview of the bank performance, facilitating continuous monitoring and strategic decision-making. This project also highlights the importance of data preparation, data cleaning, and targeted employee development.
+
+💡 Recommendations
+Focus on converting open opportunities in high-revenue categories.
+Update dashboards regularly to reflect current data trends.
+Use insights for targeted employee training to enhance productivity.
  
 
 
