@@ -27,5 +27,12 @@ This project involves creating dashboards and data analysis solutions to monitor
      
 https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%20Dashboard 
 
+ 2.Power BI Dashboard
+
+ https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Power%20Bi%20Bank%20analytics%20Dashboard.png
+
+ 3.Tableau Dashboard
+ 
+
 
 
