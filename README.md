@@ -1,5 +1,5 @@
 # -BankloanofcustomersDomain-Finance
- Differentiate the data by year, grade, and state wise . Create a variety of charts based on the key performance indicators (KPIs) and develop a dashboard that effectively  visualizes banking data in alignment with the specified  KPIs.  • Tools Used: Excel, Power BI, Tableau, SQL
+ Differentiate the data by year, grade, and state. Create various charts based on the key performance indicators (KPIs) and develop a dashboard that effectively  visualizes banking data in alignment with the specified  KPIs.  • Tools Used: Excel, Power BI, Tableau, SQL
 🛡️ Insurance Dashboard Project
 📝 Overview
 This project involves creating dashboards and data analysis solutions to monitor the weekly performance of branch activities in an insurance company. It provides insights into target achievements, customer opportunities, and operational efficiency, helping management make data-driven decisions.
@@ -12,9 +12,9 @@ This project involves creating dashboards and data analysis solutions to monitor
 
 📊 Key Insights
  Performance Metrics:
-Year wise and Grade wise analysis for Bank Loan 
-Top 20 customers of bank 
-Year wise loan amount status is increased
+Year-wise and Grade-wise analysis for Bank Loan 
+The top 20 customers of the bank 
+Year-wise loan amount status is increased
 
 
 📊 Dashboard Previews
@@ -22,11 +22,11 @@ Year wise loan amount status is increased
      
 https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%20Dashboard 
 
- 2.Power BI Dashboard
+ 2. Power BI Dashboard
 
  https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Power%20Bi%20Bank%20analytics%20Dashboard.png
 
- 3.Tableau Dashboard
+ 3. Tableau Dashboard
 
  https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Tableau%20Bank%20Analytics%20Dashboard.png
 
@@ -40,7 +40,7 @@ Tableau: Data visualization and reporting.
 Data cleaning and formatting inconsistencies.
 Standardizing data types across datasets.
 📌 Conclusion
-The dashboards provide a comprehensive overview of the bank performance, facilitating continuous monitoring and strategic decision-making. This project also highlights the importance of data preparation, data cleaning, and targeted employee development.
+The dashboards provide a comprehensive overview of the bank's performance, facilitating continuous monitoring and strategic decision-making. This project also highlights the importance of data preparation, cleaning, and targeted employee development.
 
 💡 Recommendations
 Focus on converting open opportunities in high-revenue categories.
