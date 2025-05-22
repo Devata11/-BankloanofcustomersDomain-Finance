@@ -14,7 +14,6 @@ This project involves creating dashboards and data analysis solutions to monitor
 📊 Key Insights
  Performance Metrics:
  
-https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%20Dashboard 
 
 
 
@@ -25,5 +24,8 @@ https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%2
 
 📊 Dashboard Previews
   1. Excel Dashboard
+     
+https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%20Dashboard 
+
 
 
