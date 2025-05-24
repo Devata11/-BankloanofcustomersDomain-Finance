@@ -20,8 +20,11 @@ Year-wise loan amount status is increased
 📊 Dashboard Previews
   1. Excel Dashboard
      
-![Das- *Excel Dashboard:* ![Screenshot 2024-10-21 183013](https://github.com/user-attachments/assets/1badbff9-8d00-4b2b-b82d-fc4d93263b6b)
--
+- *Excel Dashboard:*
+- ![Screenshot 2024-10-21 183013](https://github.com/user-attachments/assets/1badbff9-8d00-4b2b-b82d-fc4d93263b6b)
+
+
+
 hboard Previews] (https://github.com/Devata11/-BankloanofcustomersDomain-Finance/blob/main/Excel%20Dashboard) 
 
  2. Power BI Dashboard
