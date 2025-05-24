@@ -21,7 +21,7 @@ Year-wise loan amount status is increased
   1. Excel Dashboard
      
 - *Excel Dashboard:*
-- ![Screenshot 2024-10-21 183013](https://github.com/user-attachments/assets/1badbff9-8d00-4b2b-b82d-fc4d93263b6b)
+  ![Screenshot 2024-10-21 183013](https://github.com/user-attachments/assets/1badbff9-8d00-4b2b-b82d-fc4d93263b6b)
 
 
 
