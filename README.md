@@ -49,6 +49,7 @@ Focus on converting open opportunities in high-revenue categories.
 Update dashboards regularly to reflect current data trends.
 Use insights for targeted employee training to enhance productivity.
  
-
+- *Excel Dashboard:* ![Screenshot 2024-10-21 183013](https://github.com/user-attachments/assets/1badbff9-8d00-4b2b-b82d-fc4d93263b6b)
+-
 
 
