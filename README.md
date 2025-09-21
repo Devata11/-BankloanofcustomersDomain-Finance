@@ -34,17 +34,17 @@ The project's analysis is driven by several key performance indicators, providin
 ## 🖼️ Dashboard Previews
 This section showcases the final outputs of the project, demonstrating the insights in a visually compelling manner.
 
-1. ## **Excel Dashboard**
+ ## **Excel Dashboard**
 
 <img width="1763" height="848" alt="Bank Excel" src="https://github.com/user-attachments/assets/877cb871-35df-42b5-adf3-4c802eb6e4a0" />
 
     
-2. ## **Power BI Dashboard**
+ ## **Power BI Dashboard**
     
  <img width="1640" height="922" alt="Bank PowerBI" src="https://github.com/user-attachments/assets/21cca916-6f43-4a69-bd5c-9916cb966ab6" />
 
 
-3. ## **Tableau Dashboard**
+ ## **Tableau Dashboard**
 
 <img width="1683" height="852" alt="Bank Tableau" src="https://github.com/user-attachments/assets/39581b79-2fe3-4591-a82f-400404db0f7c" />
 
