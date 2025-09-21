@@ -36,7 +36,9 @@ This section showcases the final outputs of the project, demonstrating the insig
 
 1.  **Excel Dashboard**
 
-  
+  <img width="1785" height="818" alt="<img width="1763" height="848" alt="Bank Excel" src="https://github.com/user-attachments/assets/877cb871-35df-42b5-adf3-4c802eb6e4a0" />
+" src="https://github.com/user-attachments/assets/c595a739-948f-4d27-befc-131559f345f3" />
+
     
 3.  **Power BI Dashboard**
     
